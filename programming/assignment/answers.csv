@@ -1,0 +1,22 @@
+Q1.1
+Job, Salary, Education Requirements
+Data Scientists, 112,000, "Bachelor's at least"
+Computer Research Scientist, 140,000, "Master's"
+Information Security Analyst, 124,000, "Bachelors"
+Software Developers, 131,000, "Bachelors"
+Computer Network Architects, 130,000, "Bachelors"
+Computer Systems Analysts, 103,000, "Bachelors"
+Database Administrator & Architects, 123,000, "Bachelors"
+
+Q1.2 
+I'm surprised to see that Data Scientists are paid so little. This job usually requires at least a Bachelors, but most jobs require a relevant Masters or Doctorate degree. 
+However, this makes less than all but one other job listed, all having the same or lower education requirements. 
+
+Q1.3 
+1. Software Developer (most general and available job with good pay)
+2. Computer Network Architects (creativity in architecture and design process) 
+3. Computer Research Scientist (allowance for exploration of interesting and unexplored topics)
+4. Information Security Analyst (would be interesting to analyze and test the vulnerabilities in software)
+5. Data Scientist (creativity in deriving insights from data)
+6. Computer Systems Analyst (seems like a broad job, how would you know you're doing well)
+7. Database Admin & Architect (seems like an automatable job, many services are available for automatic telemetry & monitoring of databases)
